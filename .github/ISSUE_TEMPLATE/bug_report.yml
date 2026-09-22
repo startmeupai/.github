@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a reproducible problem in this project.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include relevant operating system, runtime, and tool versions.
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest safe reproduction.
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification attempted
+      description: List the commands or checks that actually ran.
+  - type: checkboxes
+    id: security
+    attributes:
+      label: Security check
+      options:
+        - label: This report contains no vulnerability or sensitive data.
+          required: true
