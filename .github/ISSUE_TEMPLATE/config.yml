@@ -1,5 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: Start Me Up .AI support
-    url: https://www.startmeup.ai
-    about: Use the website for organization-level enquiries.
+  - name: Questions and general enquiries
+    url: https://www.startmeup.ai/contact
+    about: Reach the team for anything that is not a bug report or feature request.

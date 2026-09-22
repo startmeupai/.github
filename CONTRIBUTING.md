@@ -24,6 +24,7 @@ security policy for private reporting.
 
 ## Contribution License
 
-Unless a repository states otherwise, contributions are licensed under the same
-license as that repository. By submitting a contribution, you confirm that you
-have the right to provide it under those terms.
+Contributions are licensed under the license of the repository receiving them.
+Where a repository states no license, contributions are accepted under the
+Apache License 2.0. By submitting a contribution, you confirm that you have the
+right to provide it under those terms.
