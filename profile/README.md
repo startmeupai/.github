@@ -1,16 +1,12 @@
-<p align="center">
+<div align="center">
   <a href="https://www.startmeup.ai">
-    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="120">
+    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="88">
   </a>
-</p>
+  <h3>Build. Launch. Scale.</h3>
+  <p>Practical AI products and engineering systems for founders and teams.</p>
+</div>
 
-<h3 align="center">Build. Launch. Scale.</h3>
-
-<p align="center">Practical AI products and engineering systems for founders and teams.</p>
-
-<p align="center">
-  <img src="assets/github-hero.png" alt="A sailboat with purple sails crossing a dark ocean under a starry sky" width="100%">
-</p>
+<img src="assets/github-hero.png" alt="A sailboat with purple sails crossing a dark ocean under a starry sky" width="100%">
 
 Start Me Up .AI builds production-ready AI products and engineering systems for
 founders and teams. We combine product engineering, AI agents, cloud
@@ -18,20 +14,19 @@ infrastructure, and automation to take products from idea to production.
 
 ## Byblos AI
 
-<p>
-  <a href="https://byblosai.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/byblosai-lockup-dark.svg">
-      <img src="assets/byblosai-lockup-light.svg" alt="Byblos AI" width="200">
-    </picture>
-  </a>
-</p>
+<a href="https://byblosai.app">
+  <img align="left" src="assets/byblosai-icon.svg" alt="Byblos AI" width="72" hspace="16">
+</a>
 
 **Your AI co-founder.** Byblos AI brings product, engineering, brand, and
 campaign agents together around shared project context, helping founders move
 from idea to market while humans stay in control.
 
 [Explore Byblos AI →](https://byblosai.app)
+
+<br clear="all">
+
+<br>
 
 ## What We Build
 
