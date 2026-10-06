@@ -24,10 +24,6 @@ from idea to market while humans stay in control.
 
 [Explore Byblos AI →](https://byblosai.app)
 
-<br clear="all">
-
-<br>
-
 ## What We Build
 
 | Area                               | Focus                                                                        |
@@ -44,16 +40,14 @@ community-health files used across the Start Me Up .AI organization.
 Individual repositories override these defaults when they need
 project-specific guidance.
 
-| Path                               | Purpose                                         |
-| ---------------------------------- | ----------------------------------------------- |
-| `profile/README.md`                | Organization profile displayed on GitHub        |
-| `profile/assets/`                  | Logos and profile assets                        |
-| `CONTRIBUTING.md`                  | Contribution workflow and inbound license terms |
-| `CODE_OF_CONDUCT.md`               | Contributor Covenant 2.1                        |
-| `SECURITY.md`                      | Private vulnerability reporting                 |
-| `SUPPORT.md`                       | Where to ask for help                           |
-| `.github/ISSUE_TEMPLATE/`          | Bug report and feature request forms            |
-| `.github/PULL_REQUEST_TEMPLATE.md` | Pull request checklist                          |
+- `profile/README.md` — organization profile displayed on GitHub
+- `profile/assets/` — logos and profile assets
+- `CONTRIBUTING.md` — contribution workflow and inbound license terms
+- `CODE_OF_CONDUCT.md` — Contributor Covenant 2.1
+- `SECURITY.md` — private vulnerability reporting
+- `SUPPORT.md` — where to ask for help
+- `.github/ISSUE_TEMPLATE/` — bug report and feature request forms
+- `.github/PULL_REQUEST_TEMPLATE.md` — pull request checklist
 
 ## Get Involved
 
