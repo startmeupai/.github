@@ -15,7 +15,7 @@ infrastructure, and automation to take products from idea to production.
 ## Byblos AI
 
 <a href="https://byblosai.app">
-  <img align="left" src="assets/byblosai-icon.svg" alt="Byblos AI" width="72" hspace="16">
+  <img align="left" src="assets/byblosai-icon.svg" alt="Byblos AI" width="60" hspace="16">
 </a>
 
 **Your AI co-founder.** Byblos AI brings product, engineering, brand, and

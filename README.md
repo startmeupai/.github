@@ -20,7 +20,7 @@ smuai for short) builds production-ready AI products and engineering systems
 for founders and teams.
 
 <a href="https://byblosai.app">
-  <img align="left" src="profile/assets/byblosai-icon.svg" alt="Byblos AI" width="72" hspace="16">
+  <img align="left" src="profile/assets/byblosai-icon.svg" alt="Byblos AI" width="60" hspace="16">
 </a>
 
 **[Byblos AI](https://byblosai.app)** is our flagship product: an AI co-founder
