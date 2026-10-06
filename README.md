@@ -30,16 +30,16 @@ security, support, issue, and pull-request guidance.
 
 ## What Lives Here
 
-| Path                               | Purpose                                                 |
-| ---------------------------------- | ------------------------------------------------------- |
-| `profile/README.md`                | The organization profile shown on the org overview page |
-| `profile/assets/`                  | Brand logos used by the profile and this README         |
-| `CONTRIBUTING.md`                  | Default contribution workflow and inbound license terms |
-| `CODE_OF_CONDUCT.md`               | Contributor Covenant 2.1                                |
-| `SECURITY.md`                      | How to report a vulnerability privately                 |
-| `SUPPORT.md`                       | Where to ask for help                                   |
-| `.github/ISSUE_TEMPLATE/`          | Default bug report and feature request forms            |
-| `.github/PULL_REQUEST_TEMPLATE.md` | Default pull request checklist                          |
+| Path                               | Purpose                                         |
+| ---------------------------------- | ----------------------------------------------- |
+| `profile/README.md`                | Organization profile displayed on GitHub        |
+| `profile/assets/`                  | Logos and profile assets                        |
+| `CONTRIBUTING.md`                  | Contribution workflow and inbound license terms |
+| `CODE_OF_CONDUCT.md`               | Contributor Covenant 2.1                        |
+| `SECURITY.md`                      | Private vulnerability reporting                 |
+| `SUPPORT.md`                       | Where to ask for help                           |
+| `.github/ISSUE_TEMPLATE/`          | Bug report and feature request forms            |
+| `.github/PULL_REQUEST_TEMPLATE.md` | Pull request checklist                          |
 
 ## Connect
 

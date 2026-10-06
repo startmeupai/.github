@@ -1,59 +1,77 @@
 <p align="center">
   <a href="https://www.startmeup.ai">
-    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="140">
+    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="120">
   </a>
 </p>
 
-# Start Me Up .AI
+<h3 align="center">Build. Launch. Scale.</h3>
 
-We build practical AI products and engineering systems for founders and teams.
-Our open-source work shares reusable patterns for building, testing, and
-governing AI-assisted software.
+<p align="center">Practical AI products and engineering systems for founders and teams.</p>
 
-## Our Product
+<p align="center">
+  <img src="assets/github-hero.png" alt="A sailboat with purple sails crossing a dark ocean under a starry sky" width="100%">
+</p>
 
-<a href="https://byblosai.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/byblosai-lockup-dark.svg">
-    <img src="assets/byblosai-lockup-light.svg" alt="Byblos AI" width="220">
-  </picture>
-</a>
+Start Me Up .AI builds production-ready AI products and engineering systems for
+founders and teams. We combine product engineering, AI agents, cloud
+infrastructure, and automation to take products from idea to production.
 
-### [Byblos AI](https://byblosai.app)
+## Byblos AI
 
-Your AI co-founder: plan your product, build your brand, and run campaigns with
-AI agents that share one project. Product Manager, Brand Manager, and Campaign
-Manager agents work from the same context, and coding agents such as Claude
-Code can read the PRD and roadmap through the Byblos AI MCP connector.
+<p>
+  <a href="https://byblosai.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/byblosai-lockup-dark.svg">
+      <img src="assets/byblosai-lockup-light.svg" alt="Byblos AI" width="200">
+    </picture>
+  </a>
+</p>
 
-## Featured Open-Source Project
+**Your AI co-founder.** Byblos AI brings product, engineering, brand, and
+campaign agents together around shared project context, helping founders move
+from idea to market while humans stay in control.
 
-### [SWE Agents](https://github.com/startmeupai/swe-agents)
+[Explore Byblos AI →](https://byblosai.app)
 
-A portable reference for organizing AI-assisted software engineering across
-Codex, Claude Code, and GitHub Copilot. It includes reusable agent personas,
-skills, deterministic checks, documentation, and evidence-driven workflows.
+## What We Build
 
-## Contributing
+| Area                               | Focus                                                                        |
+| ---------------------------------- | ---------------------------------------------------------------------------- |
+| **AI product development**         | From idea and prototype to production-ready software.                        |
+| **AI agents and automation**       | Agentic systems and workflows that automate real business processes.         |
+| **Engineering and infrastructure** | Reliable APIs, cloud infrastructure, CI/CD, and scalable production systems. |
+| **Consulting and workshops**       | Hands-on AI engineering, agentic coding, and implementation guidance.        |
 
-Contributions are welcome through issues and pull requests. Each repository
-contains its own setup and verification requirements; Start Me Up .AI's default
-community standards apply when a project does not provide more specific rules.
+## About This Repository
 
-- Search existing issues before opening a new one.
-- Discuss large changes before investing substantial implementation effort.
-- Fork the repository, create a focused branch, and open a pull request.
-- Report vulnerabilities privately through the repository's Security tab.
+This repository holds the public GitHub profile and the default
+community-health files used across the Start Me Up .AI organization.
+Individual repositories override these defaults when they need
+project-specific guidance.
 
-## Community
+| Path                               | Purpose                                         |
+| ---------------------------------- | ----------------------------------------------- |
+| `profile/README.md`                | Organization profile displayed on GitHub        |
+| `profile/assets/`                  | Logos and profile assets                        |
+| `CONTRIBUTING.md`                  | Contribution workflow and inbound license terms |
+| `CODE_OF_CONDUCT.md`               | Contributor Covenant 2.1                        |
+| `SECURITY.md`                      | Private vulnerability reporting                 |
+| `SUPPORT.md`                       | Where to ask for help                           |
+| `.github/ISSUE_TEMPLATE/`          | Bug report and feature request forms            |
+| `.github/PULL_REQUEST_TEMPLATE.md` | Pull request checklist                          |
 
-We value focused contributions, respectful technical discussion, least
-privilege, reproducible verification, and honest reporting of what was and was
-not tested.
+## Get Involved
+
+- [Contributing](https://github.com/startmeupai/.github/blob/main/CONTRIBUTING.md) — workflow, scope, and license terms
+- [Report a security issue](https://github.com/startmeupai/.github/blob/main/SECURITY.md) — private reporting first
+- [Support](https://github.com/startmeupai/.github/blob/main/SUPPORT.md) — where to ask questions
+- [SWE Agents](https://github.com/startmeupai/swe-agents) — our open-source reference for AI-assisted engineering across Codex, Claude Code, and GitHub Copilot
 
 ## Connect
 
-- [Start Me Up .AI](https://www.startmeup.ai)
-- [Byblos AI](https://byblosai.app)
-- [LinkedIn](https://www.linkedin.com/company/startmeupai)
-- Email: `contact@startmeup.ai`
+<p>
+  <a href="https://www.startmeup.ai"><strong>Start Me Up .AI</strong></a> ·
+  <a href="https://byblosai.app"><strong>Byblos AI</strong></a> ·
+  <a href="https://www.linkedin.com/company/startmeupai"><strong>LinkedIn</strong></a> ·
+  <code>contact@startmeup.ai</code>
+</p>
