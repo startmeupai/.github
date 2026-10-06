@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.startmeup.ai">
-    <img src="https://raw.githubusercontent.com/startmeupai/.github/main/profile/assets/startmeup-logo.svg" alt="Start Me Up .AI" width="120">
+    <img src="profile/assets/startmeup-logo.svg" alt="Start Me Up .AI" width="120">
   </a>
 </p>
 
