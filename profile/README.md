@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.startmeup.ai">
-    <img src="https://raw.githubusercontent.com/startmeupai/.github/main/profile/assets/startmeup-logo.svg" alt="Start Me Up .AI" width="140">
+    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="140">
   </a>
 </p>
 
@@ -14,8 +14,8 @@ governing AI-assisted software.
 
 <a href="https://byblosai.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/startmeupai/.github/main/profile/assets/byblosai-lockup-dark.svg">
-    <img src="https://raw.githubusercontent.com/startmeupai/.github/main/profile/assets/byblosai-lockup-light.svg" alt="Byblos AI" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/byblosai-lockup-dark.svg">
+    <img src="assets/byblosai-lockup-light.svg" alt="Byblos AI" width="220">
   </picture>
 </a>
 
