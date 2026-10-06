@@ -16,6 +16,9 @@ Contributors do not need organization membership or direct write access.
 Repositories may define additional requirements in their own
 `CONTRIBUTING.md`.
 
+All participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). For
+questions and help, see [`SUPPORT.md`](SUPPORT.md).
+
 ## Safety
 
 Do not include credentials, private code, customer data, private domains, or

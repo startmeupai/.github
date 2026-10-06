@@ -1,8 +1,30 @@
+<p align="center">
+  <a href="https://www.startmeup.ai">
+    <img src="assets/startmeup-logo.svg" alt="Start Me Up .AI" width="140">
+  </a>
+</p>
+
 # Start Me Up .AI
 
 We build practical AI products and engineering systems for founders and teams.
 Our open-source work shares reusable patterns for building, testing, and
 governing AI-assisted software.
+
+## Our Product
+
+<a href="https://byblosai.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/byblosai-lockup-dark.svg">
+    <img src="assets/byblosai-lockup-light.svg" alt="Byblos AI" width="220">
+  </picture>
+</a>
+
+### [Byblos AI](https://byblosai.app)
+
+Your AI co-founder: plan your product, build your brand, and run campaigns with
+AI agents that share one project. Product Manager, Brand Manager, and Campaign
+Manager agents work from the same context, and coding agents such as Claude
+Code can read the PRD and roadmap through the Byblos AI MCP connector.
 
 ## Featured Open-Source Project
 
@@ -31,6 +53,7 @@ not tested.
 
 ## Connect
 
-- [Website](https://www.startmeup.ai)
+- [Start Me Up .AI](https://www.startmeup.ai)
+- [Byblos AI](https://byblosai.app)
 - [LinkedIn](https://www.linkedin.com/company/startmeupai)
 - Email: `contact@startmeup.ai`

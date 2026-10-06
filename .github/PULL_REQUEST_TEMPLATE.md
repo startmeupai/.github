@@ -1,4 +1,4 @@
-# Summary
+## Summary
 
 <!-- Explain the problem and the focused change that solves it. -->
 
